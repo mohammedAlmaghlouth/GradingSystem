@@ -1,6 +1,6 @@
 # ICS 104 Lab Project (Term 201) - Students Grade System
 
-This is a Python program developed as part of the ICS 104 Lab Project for Term 201 as team of team members.
+This is a Python program developed as part of the ICS 104 Lab Project for Term 201 as team of two members.
 The program is designed to manage and maintain students' grades for an instructor. The grade information is stored in a text file.
 
 ## Features
